@@ -102,13 +102,10 @@ Technical Writer & Veo & Gemini Storyteller
 🔗 [Medium](https://medium.com/@robinamirbahar)  
 🔗 [GitHub](https://github.com/RobinaMirbahar)
 
----
 
 **✨ Made with imagination. Powered by Gemini + Veo. ✨**
 
----
 
-✨ **Made with imagination. Powered by Gemini + Veo.** ✨
 
 
 
