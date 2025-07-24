@@ -6,9 +6,11 @@
 
 ---
 
-## 🎬 Project Summary
+# 🎬 Project Summary
 
 **sofia‑song** is a story of courage, friendship, and finding your voice. Over seven short scenes, we follow Sofia as she sneaks through a festival, hesitates, hums, and — with a nudge from her whimsical companions — brings an entire village into harmony.
+
+---
 
 ### 🌟 Key Ingredients
 
@@ -36,16 +38,15 @@
 
 ## 📖 Scene Breakdown
 
-| Scene | File Link                            | Title             | Time     | Description                                              |
-| ----- | ------------------------------------ | ----------------- | -------- | -------------------------------------------------------- |
-| 1     | [`01_distraction.md`](prompts/01_distraction.md)     | The Distraction   | 0–8s     | Sofia sneaks behind a bush with a banana mic.            |
-| 2     | [`02_slip.md`](prompts/02_slip.md)                   | The Slip          | 8–16s    | She trips — the banana mic flies into the air!           |
-| 3     | [`03_invitation.md`](prompts/03_invitation.md)       | The Invitation    | 16–24s   | Squiggle and Bloom encourage her with silly antics.      |
-| 4     | [`04_brave‑word.md`](prompts/04_brave‑word.md)       | The Brave Word    | 24–32s   | Sofia hums — just one note — and the world listens.      |
-| 5     | [`05_step‑into‑light.md`](prompts/05_step‑into‑light.md) | Step Into Light   | 32–40s   | She rises — her friends cheer — kids begin to clap.      |
-| 6     | [`06_echo.md`](prompts/06_echo.md)                   | The Echo          | 40–48s   | The village hums with her — music lifts into the sky.    |
-| 7     | [`07_chorus.md`](prompts/07_chorus.md)               | The Chorus        | 48–60s   | Joy explodes. Petals swirl. Everyone joins the song.     |
-
+| 🌸 Scene | File                          | Title             | Time     | Description                                              |
+| ------- | ----------------------------- | ----------------- | -------- | -------------------------------------------------------- |
+| 1       | [`01_distraction.md`](prompts/01_distraction.md)         | The Distraction   | 0–8s     | Sofia sneaks behind a bush with a banana mic.            |
+| 2       | [`02_slip.md`](prompts/02_slip.md)                | The Slip          | 8–16s    | She trips — the banana mic flies into the air!           |
+| 3       | [`03_invitation.md`](prompts/03_invitation.md)         | The Invitation    | 16–24s   | Squiggle and Bloom encourage her with silly antics.      |
+| 4       | [`04_brave‑word.md`](prompts/04_brave‑word.md)         | The Brave Word    | 24–32s   | Sofia hums — just one note — and the world listens.      |
+| 5       | [`05_step‑into‑light.md`](prompts/05_step‑into‑light.md) | Step Into Light   | 32–40s   | She rises — her friends cheer — kids begin to clap.      |
+| 6       | [`06_echo.md`](prompts/06_echo.md)                | The Echo          | 40–48s   | The village hums with her — music lifts into the sky.    |
+| 7       | [`07_chorus.md`](prompts/07_chorus.md)              | The Chorus        | 48–60s   | Joy explodes. Petals swirl. Everyone joins the song.     |
 ---
 
 ## 🧚 Character Profiles
@@ -62,12 +63,15 @@ A gentle, floating flower-petal creature dressed in soft lavender petals, with a
 
 ---
 
-## 🎬 How to Use
+## 🎥 How to Use
 
-1. Browse `/prompts/` to view and edit Gemini prompts for each scene.
-2. Use them with [Veo](https://deepmind.google/models/veo/) to generate cinematic videos.
-3. Finalize in CapCut (merge, trim, soundtrack).
-4. Share your 1-minute film with the world!
+1. Open each scene prompt in the `/prompts/` folder.
+2. Paste them into Gemini to generate visual storytelling prompts.
+3. Render cinematic output using Veo 3 (via Vertex AI).
+4. Edit and combine scenes using CapCut or similar.
+5. Share your 1‑minute story with the world!
+
+---
 
 ## 🚀 Repository Structure
 sofia‑song/
@@ -90,14 +94,16 @@ Each `.md` file contains a cinematic, 3D‑animation-ready scene description wit
 ## 👩‍💻 Author
 
 **Robina Mirbahar**  
-🌟 Google Developer Expert (AI/ML)  
-🚀 Google Cloud Champion Innovator – Modern Architecture  
-📝 Technical Writer & Veo + Gemini Storyteller  
-
+Google Developer Expert (AI/ML) • Google Cloud Champion Innovator – Modern Architecture  
+Technical Writer & Veo & Gemini Storyteller  
 🔗 [LinkedIn](https://www.linkedin.com/in/robinamirbahar)  
-📸 [Instagram](https://instagram.com/robinamirbahar)  
-✍️ [Medium](https://medium.com/@robinamirbahar)  
-💻 [GitHub](https://github.com/RobinaMirbahar)
+🔗 [Instagram](https://instagram.com/robinamirbahar)  
+🔗 [Medium](https://medium.com/@robinamirbahar)  
+🔗 [GitHub](https://github.com/RobinaMirbahar)
+
+---
+
+**✨ Made with imagination. Powered by Gemini + Veo. ✨**
 
 ---
 
