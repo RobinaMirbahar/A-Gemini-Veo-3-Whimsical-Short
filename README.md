@@ -39,14 +39,15 @@
 ## 📖 Scene Breakdown
 
 | 🌸 Scene | File                          | Title             | Time     | Description                                              |
-| ------- | ----------------------------- | ----------------- | -------- | -------------------------------------------------------- |
-| 1       | [`01_distraction.md`](prompts/01_distraction.md)         | The Distraction   | 0–8s     | Sofia sneaks behind a bush with a banana mic.            |
-| 2       | [`02_slip.md`](prompts/02_slip.md)                | The Slip          | 8–16s    | She trips — the banana mic flies into the air!           |
-| 3       | [`03_invitation.md`](prompts/03_invitation.md)         | The Invitation    | 16–24s   | Squiggle and Bloom encourage her with silly antics.      |
-| 4       | [`04_brave‑word.md`](prompts/04_brave‑word.md)         | The Brave Word    | 24–32s   | Sofia hums — just one note — and the world listens.      |
-| 5       | [`05_step‑into‑light.md`](prompts/05_step‑into‑light.md) | Step Into Light   | 32–40s   | She rises — her friends cheer — kids begin to clap.      |
-| 6       | [`06_echo.md`](prompts/06_echo.md)                | The Echo          | 40–48s   | The village hums with her — music lifts into the sky.    |
-| 7       | [`07_chorus.md`](prompts/07_chorus.md)              | The Chorus        | 48–60s   | Joy explodes. Petals swirl. Everyone joins the song.     |
+| ----- | --------------------------------------| ------------------- | -------- | -------------------------------------------------------- |
+| 0     | [`scene-0-intro.md`](prompts/scene-0-intro.md)              | What If They Judge Me? | 0–8s     | Sofia hides behind bush, afraid to step out.             |
+| 1     | [`scene-1-distraction.md`](prompts/scene-1-distraction.md)  | They’re All Watching…  | 8–16s    | Squiggle steals banana mic, kids laugh.                  |
+| 2     | [`scene-2-slip.md`](prompts/scene-2-slip.md)                | Oops!                  | 16–24s   | Sofia slips into petals, mic lands beside her.           |
+| 3     | [`scene-3-first-note.md`](prompts/scene-3-first-note.md)    | Just One Word…         | 24–32s   | Bloom encourages truth over perfection.                  |
+| 4     | [`scene-4-hi.md`](prompts/scene-4-hi.md)                    | Hi.                    | 32–40s   | Sofia finally speaks into mic.                           |
+| 5     | [`scene-5-step-light.md`](prompts/scene-5-step-light.md)    | Did They Hear Me?      | 40–48s   | Sofia steps into light — petals swirl.                   |
+| 6     | [`scene-6-ripple.md`](prompts/scene-6-ripple.md)            | She Sang.              | 48–56s   | Others begin to hum back — a ripple of music.            |
+| 7     | [`scene-7-chorus.md`](prompts/scene-7-chorus.md)            | Together Now           | 56–60s   | Everyone joins in — a glowing, musical celebration.      |
 ---
 
 ## 🧚 Character Profiles
