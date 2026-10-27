@@ -1,5 +1,49 @@
 # 🌸 sofia‑song: A Veo 3 + Gemini Whimsical Story
 
+![Video_AI](https://img.shields.io/badge/Video_AI-Google_Veo_3-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Story_Director](https://img.shields.io/badge/Story_Director-Google_Gemini_API-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Format](https://img.shields.io/badge/Format-1_Minute_Animated_Short-7C3AED?style=for-the-badge&logo=youtube&logoColor=white)
+![Creator](https://img.shields.io/badge/Creator-Robina_Mirbahar-EA4335?style=for-the-badge&logo=github&logoColor=white)
+
+> **Author & Architect:** [Robina Mirbahar](https://github.com/RobinaMirbahar) (Google Developer Expert in Cloud & AI)  
+> **Focus:** AI-Directed Cinematic Storytelling, Multi-Shot Prompt Choreography & Audio-Visual Synchronization with Google Veo 3
+
+---
+
+## 🎯 Why I Built Sofia's Song — A Whimsical Animated Short with Google Gemini & Veo 3 (Engineering Purpose & Real-World Value)
+
+### 1. 🎬 Directing Cohesive Multi-Shot Narratives with Google Veo 3
+Generating a single 5-second AI clip is easy; directing a cohesive 1-minute emotional story with consistent lighting, camera movement, and character identity is an engineering discipline. I created *Sofia's Song* to document my end-to-end Veo 3 production workflow.
+
+### 2. 🎼 Gemini-Driven Storyboard & Acoustic Choreography
+I used Google Gemini to structure shot-by-shot camera lenses, color palettes, and musical pacing cues so every transition feels intentional.
+
+### 3. 📖 Reproducible Prompt Engineering Blueprint
+This repository shares the exact scene breakdown, character locking prompts, and assembly pipeline so creators can build their own animated shorts.
+
+---
+
+## 🏗️ System Architecture
+
+```mermaid
+flowchart TD
+    subgraph Concept ["1. Narrative & Character Locking (Google Gemini)"]
+        C_Script["Story Arc & Emotional Beat Sheet"]
+        C_Char["Canonical Character & Palette Descriptors"]
+    end
+    subgraph Veo ["2. Multi-Shot Video Synthesis (Google Veo 3)"]
+        V_S1["Shot 1-4: Establishing World & Lighting"]
+        V_S2["Shot 5-8: Character Performance & Motion"]
+        V_S3["Shot 9-12: Climax & Musical Resolution"]
+    end
+    subgraph Final ["3. Post-Production & Synchronization"]
+        F_Cut["60-Second Master Cut (Sofia's Song)"]
+    end
+    C_Script --> C_Char --> V_S1 --> V_S2 --> V_S3 --> F_Cut
+```
+
+---
+
 > “One brave hum. Two magical friends. A village that listened.”
 
 **sofia‑song** is a 1‑minute whimsical Pixar-style short created with **Gemini prompt engineering** and **Veo 3 cinematic generation**. It follows *Sofia*, a 12‑year‑old girl in a flowing pink dress, as she faces the fear of judgment and learns to sing her truth — with help from her fluffy squirrel sidekick *Squiggle* and the gentle floating friend *Bloom*.
@@ -125,3 +169,22 @@ Technical Writer & Veo & Gemini Storyteller
 <div align="center">
   <img src="https://raw.githubusercontent.com/RobinaMirbahar/RobinaMirbahar/main/ProfileImages/GithubBanner.svg" alt="Robina Mirbahar Banner" width="100%" />
 </div>
+
+<!-- AUTHOR_SIGNATURE_START -->
+---
+
+## 👩‍💻 About the Author
+
+**Robina Mirbahar — Google Cloud & AI Architect**  
+*Google Developer Expert (GDE) in Cloud & AI • Published Author • Multi-Agent Systems & Serverless GPU Builder*
+
+[![GitHub](https://img.shields.io/badge/GitHub-RobinaMirbahar-181717?style=for-the-badge&logo=github)](https://github.com/RobinaMirbahar)
+[![Medium](https://img.shields.io/badge/Medium-@robinamirbahar-000000?style=for-the-badge&logo=medium)](https://medium.com/@robinamirbahar)
+[![DEV.to](https://img.shields.io/badge/DEV.to-robinamirbahar-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/robinamirbahar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robina_Mirbahar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robina-mirbahar)
+[![GDE Profile](https://img.shields.io/badge/Google_Developer_Expert-Profile-4285F4?style=for-the-badge&logo=google)](https://g.dev/RobinaMirbahar)
+[![YouTube](https://img.shields.io/badge/YouTube-@RobinaMirbahar-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@RobinaMirbahar)
+[![X](https://img.shields.io/badge/X-@RobinaMirbahar-000000?style=for-the-badge&logo=x)](https://x.com/RobinaMirbahar)
+[![Amazon Author](https://img.shields.io/badge/Amazon_Book-Cloud_Computing_Voyage-FF9900?style=for-the-badge&logo=amazon)](https://www.amazon.com/dp/B0D146249R)
+
+<!-- AUTHOR_SIGNATURE_END -->
