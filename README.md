@@ -75,8 +75,8 @@ flowchart TD
 | **Veo 3**  | Cinematic video generation          |
 | **CapCut** | Final edit, trim, transitions       |
 
-🔗 [Veo by DeepMind](https://deepmind.google/models/veo/)  
-🔗 [Veo API Docs (Vertex AI)](https://cloud.google.com/vertex-ai/generative-ai/docs/models/veo/3-0-generate-preview)
+🔗 [Veo by DeepMind](https://deepmind.google/models/veo/?utm_campaign=deveco_gdemembers&utm_source=deveco)  
+🔗 [Veo API Docs (Vertex AI)](https://cloud.google.com/vertex-ai/generative-ai/docs/models/veo/3-0-generate-preview?utm_campaign=deveco_gdemembers&utm_source=deveco)
 
 ---
 
