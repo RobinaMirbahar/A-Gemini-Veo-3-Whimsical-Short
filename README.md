@@ -5,24 +5,15 @@
 ![Format](https://img.shields.io/badge/Format-1_Minute_Animated_Short-7C3AED?style=for-the-badge&logo=youtube&logoColor=white)
 [![Author](https://img.shields.io/badge/Author-Robina_Mirbahar-EA4335?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobinaMirbahar)
 
-> **Author & Architect:** [Robina Mirbahar](https://github.com/RobinaMirbahar) ([Google Developer Expert in Cloud & AI](https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco))  
-> **Focus:** AI-Directed Cinematic Storytelling, Multi-Shot Prompt Choreography & Audio-Visual Synchronization with Google Veo 3
+> **Author & Architect:** [Robina Mirbahar](https://github.com/RobinaMirbahar) ([Google Developer Expert in Cloud & AI](https://developers.google.com/profile/u/106918534005910641104?utm_campaign=deveco_gdemembers&utm_source=deveco) · Google Cloud Champion Innovator · Co-Author of [*AI Engineering*](https://www.amazon.com/dp/B0GWCZWCF4))  
+> **Companion Film & Showcase:** 🎥 [Watch *Sofia's Song* on YouTube](https://www.youtube.com/watch?v=rS-gXC0XoH0) · 🎬 [Companion Repo: *Crayon Skies* (`crayon-skies-veo3`)](https://github.com/RobinaMirbahar/crayon-skies-veo3)  
+> **Core Stack:** [Google Gemini API](https://ai.google.dev/gemini-api/docs?utm_campaign=deveco_gdemembers&utm_source=deveco), [Google Veo 3 on Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/models/veo/3-0-generate-preview?utm_campaign=deveco_gdemembers&utm_source=deveco), [Google AI Studio](https://aistudio.google.com/?utm_campaign=deveco_gdemembers&utm_source=deveco), Multi-Shot Character Locking, and CapCut NLE.
 
 This repository contains the modular prompt architecture, character-locking specifications, and scene-by-scene cinematography blueprints for **Sofia's Song**—a 1-minute whimsical 3D animated short created with **[Google Gemini](https://ai.google.dev/gemini-api/docs?utm_campaign=deveco_gdemembers&utm_source=deveco)** and **[Google Veo 3 on Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/models/veo/3-0-generate-preview?utm_campaign=deveco_gdemembers&utm_source=deveco)**.
 
 You can watch the completed short film and explore the companion Veo 3 project directly:
 * 🎥 **Watch the Short Film (YouTube):** [Sofia's Song — A Whimsical 1-Minute Animated Story](https://www.youtube.com/watch?v=rS-gXC0XoH0)
 * 🎬 **Companion Veo 3 Film & Repository:** [Crayon Skies (`crayon-skies-veo3`)](https://github.com/RobinaMirbahar/crayon-skies-veo3) · [Watch Crayon Skies on YouTube](https://www.youtube.com/watch?v=qwILtvTzofc)
-
----
-
-## 📑 Table of Contents
-* [🎬 What is Sofia's Song?](#-what-is-sofias-song)
-* [🧚 Canonical Character & Prop Directory](#-canonical-character--prop-directory)
-* [📐 Multi-Shot Production Architecture](#-multi-shot-production-architecture)
-* [🚀 Repository Structure & Modular Prompt Strategy](#-repository-structure--modular-prompt-strategy)
-* [🛠️ Core Scene Architecture & Prompt Modules](#-core-scene-architecture--prompt-modules)
-* [📦 Reproduction & Production Workflow](#-reproduction--production-workflow)
 
 ---
 
