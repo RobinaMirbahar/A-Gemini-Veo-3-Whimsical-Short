@@ -79,14 +79,13 @@ flowchart TD
 
 ## 🔧 Tools & Official Resources
 
-| Tool | Purpose |
-| :--- | :--- |
-| **Google Gemini** | Story arc scripting, character locking & shot prompt generation |
-| **Google Veo 3** | Cinematic 3D-style video synthesis via Vertex AI |
-| **CapCut** | Final timeline assembly, trims, transitions & audio sync |
-
-* 🔗 [Google Veo by DeepMind](https://deepmind.google/models/veo/?utm_campaign=deveco_gdemembers&utm_source=deveco)
-* 🔗 [Veo 3 on Vertex AI Documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/models/veo/3-0-generate-preview?utm_campaign=deveco_gdemembers&utm_source=deveco)
+| Tool | Purpose | Official Documentation (GDE Tracked) |
+| :--- | :--- | :--- |
+| **[Google Gemini API](https://ai.google.dev/gemini-api/docs?utm_campaign=deveco_gdemembers&utm_source=deveco)** | Story arc scripting, character locking & shot prompt generation | [ai.google.dev/gemini-api/docs](https://ai.google.dev/gemini-api/docs?utm_campaign=deveco_gdemembers&utm_source=deveco) |
+| **[Google AI Studio](https://aistudio.google.com/?utm_campaign=deveco_gdemembers&utm_source=deveco)** | Interactive prompt prototyping & scene refinement | [aistudio.google.com](https://aistudio.google.com/?utm_campaign=deveco_gdemembers&utm_source=deveco) |
+| **[Google Veo 3 (DeepMind)](https://deepmind.google/models/veo/?utm_campaign=deveco_gdemembers&utm_source=deveco)** | Cinematic 3D-style video synthesis | [deepmind.google/models/veo](https://deepmind.google/models/veo/?utm_campaign=deveco_gdemembers&utm_source=deveco) |
+| **[Google Cloud Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/models/veo/3-0-generate-preview?utm_campaign=deveco_gdemembers&utm_source=deveco)** | Enterprise Veo 3 video generation endpoint | [cloud.google.com/vertex-ai](https://cloud.google.com/vertex-ai/generative-ai/docs/models/veo/3-0-generate-preview?utm_campaign=deveco_gdemembers&utm_source=deveco) |
+| **CapCut** | Final timeline assembly, trims, transitions & audio sync | — |
 
 ---
 
