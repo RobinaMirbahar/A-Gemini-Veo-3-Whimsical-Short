@@ -41,8 +41,6 @@ You can watch the completed short film and explore the companion Veo 3 project d
 ## 📐 Multi-Shot Production Architecture
 
 > **🆕 Pipeline Highlight:** Separates **Static Visual Invariants** (`Scene 0` Reference Sheet) from **Per-Shot Motion & Camera Vectors** (`Scenes 1–7`), feeding structured Gemini shot specifications into Google Veo 3 (`8s` clips) before final timeline assembly.  
-> *(🩷 Pink = Canonical Reference Anchor | 💙 Blue = Gemini Prompt Synthesis | 💚 Green = Veo 3 Multi-Shot Rendering | 💜 Purple = NLE Audio-Visual Master)*
-
 ```mermaid
 flowchart TD
     subgraph Ref ["1. Canonical Reference Layer (prompts/scene-0-intro.md)"]
@@ -69,14 +67,6 @@ flowchart TD
     G_Act2 --> V_Render
     G_Act3 --> V_Render
     V_Render --> P_Master
-
-    style R_Char fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#831843
-    style R_Env fill:#fce7f3,stroke:#db2777,stroke-width:2px,color:#831843
-    style G_Act1 fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
-    style G_Act2 fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
-    style G_Act3 fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
-    style V_Render fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d
-    style P_Master fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#581c87
 ```
 
 ---
